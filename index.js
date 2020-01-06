@@ -28,6 +28,6 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num){
   var result = [];
-  while ()
-
+  
+  do 
 }
